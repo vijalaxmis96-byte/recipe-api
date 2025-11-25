@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Pasta",
+    "ingredients": "Noodles, Tomato Sauce, Cheese",
+    "instructions": "Boil noodles. Mix with sauce and cheese.",
+    "cookTime": "15 mins",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "title": "Omelette",
+    "ingredients": "Eggs, Salt, Pepper, Onion",
+    "instructions": "Beat eggs. Add ingredients. Cook on pan.",
+    "cookTime": "10 mins",
+    "difficulty": "easy"
+  },
+  {
+    "id": 1764059317367,
+    "title": "Pasta",
+    "ingredients": "Noodles,Tomato Sauce",
+    "instructions": "Boil noodles. Mix with sauce and cheese.",
+    "cookTime": "15 mins",
+    "difficulty": "medium"
+  },
+  {
+    "id": 1764059499207,
+    "title": "Pasta",
+    "ingredients": "Noodles, Tomato Sauce, Cheese",
+    "instructions": "Boil noodles. Mix with sauce and cheese.",
+    "cookTime": "15 mins",
+    "difficulty": "medium"
+  }
+]

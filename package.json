@@ -1,0 +1,14 @@
+{
+  "name": "recipe-api",
+  "version": "1.0.0",
+  "description": "Recipe Sharing API for Kalvium Deployment Assignment",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
