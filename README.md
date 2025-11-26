@@ -6,7 +6,7 @@ It is deployed using **Render** and uses **Node.js + Express + JSON file storage
 ---
 
 ## 🚀 Live API URL
-Replace with your Render URL:[https://recipe-api-d9g3.onrender.comv]
+Replace with your Render URL:
 
 
-Github Link : [https://github.com/vijalaxmis96-byte/recipe-api.git]
+Github Link :
